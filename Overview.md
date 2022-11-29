@@ -1,6 +1,6 @@
 Review of High Energy Astrophysics.
 
-These are the main topics:
+These are the main topics, each page is equivalent to one item in the review lecture notes for the final:
 
 1) [[Size of Objects]]
 2) [[Relative effifiency of processes]]
@@ -16,16 +16,15 @@ These are the main topics:
 12) [[Intro to Accretion Disks and ISCO]] (Lecture 10)
 13) [[Equations of Disk Structure]] (Lecture 10)
 14) [[Luminosity of Disk]] (Lecture 10)
-15) Local Spectral Temperature (Lecture 11)
-16) Accretion Disk Spectrum (Lecture 11)
-17) Need for viscosity (Lecture 11)
-18) Balbus-Hawley Instability (Lecture 11)
-19) Modified Black-Body Spectrum (Lecture 12)
-20) Tests of Accretion Disk Theory (Lecture 12)
-21) Accretion Disk Instabilities (Lecture 13)
+15) [[Local Spectral Temperature]] ([[Is optically thick accretion going on?]]) (Lecture 11)
+17) Accretion Disk Spectrum (Lecture 11)
+18) Need for viscosity (Lecture 11)
+19) Balbus-Hawley Instability (Lecture 11)
+20) Modified Black-Body Spectrum (Lecture 12)
+21) Tests of Accretion Disk Theory (Lecture 12)
+22) Accretion Disk Instabilities (Lecture 13)
 
-Missing
-- 15
+Missing itmes from the lecture notes
 - 17
 - 23
 - 24

@@ -33,7 +33,7 @@ $$
 
 This means that the material inside $r$ is losing angular momentum and migrating inwards. 
 
-Calculating the rate at which angular moemntum is los as a fluid element moves from an outer radius $r_a$ to an inner radius $r_b$, we end up with the following:
+Calculating the rate at which angular moemntum is lost as a fluid element moves from an outer radius $r_a$ to an inner radius $r_b$, we end up with the following:
 
 $$
 \dot{M}(L - L_{in}) = \dot{M} ( \sqrt{GMr} - \sqrt{GMr_{in}})
