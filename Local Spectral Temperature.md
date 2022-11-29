@@ -8,7 +8,7 @@ Return to [[Overview]]
 
 ## Effective Temperature $T_{eff}$
 
-Using the flux we obtained in [[Equations of Disk Structure]], we can find the effective temperature doing the following:
+Using the flux we obtained in [[Equations of Disk Structure]], we can find the effective temperature of an accretion disk doing the following:
 
 $$
 F = \sigma_B T_{eff}^4 \Rightarrow T_{eff} = \bigg( \frac{F}{\sigma_B} \bigg)^{1/4}
