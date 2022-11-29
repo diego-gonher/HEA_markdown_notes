@@ -19,13 +19,12 @@ These are the main topics, each page is equivalent to one item in the review lec
 15) [[Local Spectral Temperature]] ([[Is optically thick accretion going on?]]) (Lecture 11)
 17) [[Accretion Disk Spectrum]] (Lecture 11)
 18) [[Need for viscosity]] (Lecture 11)
-19) Balbus-Hawley Instability (Lecture 11)
+19) [[Balbus-Hawley Instability]] (Lecture 11)
 20) Modified Black-Body Spectrum (Lecture 12)
 21) Tests of Accretion Disk Theory (Lecture 12)
 22) Accretion Disk Instabilities (Lecture 13)
 
 Missing itmes from the lecture notes
-- 17
 - 23
 - 24
 
