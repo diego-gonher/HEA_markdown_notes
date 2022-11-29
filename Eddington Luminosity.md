@@ -19,4 +19,5 @@ Making these two equal and solving for the luminosity gives us our answer:
 $$
 L_{Edd} = \frac{4 \pi G m_p c}{\sigma_T}
 $$
+
 Even though this is a limiting case, objects in nature can actually exceed the Eddington Luminosity. One of the main reasons is that for this derivation, we assumed that the object is mainly made up of ionized Hydrogen atoms (i.e. protons). This means that, for instance, a neutral gas would have a different limiting luminosity. Furthermore, this derivation only considered a very simple model that only included photon scattering ionized H. A more complicated scenario, such as an accreting disk (where clumpy dust is present), would require a more careful treatement for the cross section and account for more ways of momentum transfer. 

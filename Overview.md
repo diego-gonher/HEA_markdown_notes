@@ -17,7 +17,7 @@ These are the main topics, each page is equivalent to one item in the review lec
 13) [[Equations of Disk Structure]] (Lecture 10)
 14) [[Luminosity of Disk]] (Lecture 10)
 15) [[Local Spectral Temperature]] ([[Is optically thick accretion going on?]]) (Lecture 11)
-17) Accretion Disk Spectrum (Lecture 11)
+17) [[Accretion Disk Spectrum]] (Lecture 11)
 18) Need for viscosity (Lecture 11)
 19) Balbus-Hawley Instability (Lecture 11)
 20) Modified Black-Body Spectrum (Lecture 12)

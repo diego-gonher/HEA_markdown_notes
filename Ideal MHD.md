@@ -1,6 +1,10 @@
 Return to [[Overview]]
 
-Lecture 3
+## Questions
+
+- Define MHD
+- Basic assumption of ideal MHD (infrequent collisions)
+- Flux Freezing equation
 
 ## MHD
 To begin, we define MHD as the dynamics of electrically conducting fluids in the prescence of magnetic fields. This is of great application in astrophysics, since a lot of scenarios include ionized gases or plasmas submerged in magnetic fields.
